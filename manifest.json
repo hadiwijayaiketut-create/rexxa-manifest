@@ -1,0 +1,18 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "name": "Rexxa Topup",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "www.rexxatopup.biz",
+  "start_url": "https://www.rexxatopup.biz.id/",
+  "theme_color": "#ffffff",
+  "dir": "auto",
+  "lang": "id",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "fullscreen",
+    "minimal-ui"
+  ]
+}
